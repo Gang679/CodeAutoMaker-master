@@ -1,0 +1,37 @@
+//
+//  PrefixHeader.pch
+
+//  CodeAutoMaker
+//
+//  Created by bear on 15/11/15.
+//  Copyright © 2015年 bear. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "UIView+CCView.h"
+#import "TabBarAndNavagation.h"
+#import "MBProgressHUD.h"
+#import "CCNSString.h"
+#import "CCAlertAction.h"
+#import "CCFileManager.h"
+
+#import "CreatPropert.h"
+#import "AFNetworking.h"
+
+#import "FMDBCreat.h"
+
+#import "CCStoryboardXMLManager.h"
+#import "CCStoryboardTextManager.h"
+#import "CCStroyBoardFileManager.h"
+
+#import "ViewProperty.h"
+
+#import "CCStoryboardPropertyManager.h"
+
+#import "StroyBoardCreateProperty.h"
+#import "CCSaveDataToFMDB.h"
+#import "CCWordWrap.h"
+
+#endif /* PrefixHeader_pch */
